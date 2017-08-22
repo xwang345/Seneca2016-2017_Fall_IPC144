@@ -1,0 +1,16 @@
+1) What is a structre type?
+
+In C language, a struct is data type declaration that defines a grouped list of variables and store it in the memory.
+
+2) What is the difference between a structure type and an array?
+For arrays:
+array is collection of relate data elements of same tye, is derived data type.
+
+For Structures:
+
+it can have elements of different data type, is a progammer defined data type.
+
+3) How do you access a member of an object of a structure type?
+
+To access a member of an object of a structure, I use the dot operator. For example, to aceess item's product number
+item.sku_;

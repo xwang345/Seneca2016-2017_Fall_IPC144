@@ -1,0 +1,13 @@
+1)What is the difference between opening a file in ¡°a¡± mode versus ¡°a+¡± mode?
+	For "a" mode:
+		Wirte to the end of the file.
+	For "a+" mode:
+		Opens the file for writing to the end of the file and possibly reading.
+
+2)In this workshop, a file was used to save a table. What was the first record in this table? What was the third field?
+	1. 10 50.34 61.00 30.00 50.50
+	2. 55 10.00 20.00 30.00 40.50
+
+3)Why do we need to call the function srand()? What happens if we don't call it before using rand()? 
+	1. We using "srand()" function provides a unique seed for each run and hence different pseudo-random numbers.
+	2. Returns a pseudo-random number in the range of 0 to RAND_MAX.

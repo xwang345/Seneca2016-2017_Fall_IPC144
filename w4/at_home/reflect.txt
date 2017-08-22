@@ -1,0 +1,8 @@
+1. In your opinion what are the advantages of dividing the program into Data Entry, Analysis and Report?
+	In my point of view, break big functions into small functions programmer will easiser to understand the logical of function. Moreover, it help to programmer to identify and divid potential bugs into small function.
+
+2. When initializing an array, what happens if the number of the number of elements initialized is less than the elements in the array?
+	In my workshop4 program, the program can give user a error prompt if the user put number less than array size.
+
+3. What are parallel array and what are they used for?
+	Parallel Arrary is some separate array that programmer declare the same number of elements, contains for data or some data contain relate to each other. For using a parallel array; For example, in the workshop4 program, need put student infromations. The frist data in the first array that will related in second array, and first element of index number as same as second element of index number, then the parallel array will keep the input until to use them.

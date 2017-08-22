@@ -1,0 +1,10 @@
+
+In line number 14 of your output:
+The output should be:
+average: 72.22, highest marks: 88.88, lowest marks: 55.55
+But your output is: 
+average: 72.22, highest marks: 88.88, lowest marks: 55.55xwang345@matrix:~/w8/IPC-WS8/at_home> exit
+                                                         ^
+---------------------------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(78), dec(120)

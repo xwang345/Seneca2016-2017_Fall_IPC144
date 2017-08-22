@@ -1,0 +1,8 @@
+1)What is the advantage of using an array of struct variables versus two parallel arrays?
+	The array of struct variables represent various of data by using only single name.
+
+2)What is the purpose of declaring a function parameter/argument as a pointer?
+	In C language, declare pointer to functionn which will retrun the argument type values. 
+
+3)When is the keyword const used when passing an array or pointer variable to a function? 
+	In C language, function arguments are passed by value.The function change the values passed in. As a result, declaring the function's parameters as const is necessary, and array or pointer will not change.

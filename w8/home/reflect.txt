@@ -1,0 +1,6 @@
+1. conscrete class:it can have direct instances. 
+   abstract class: it can not have instances, instead it need other calss to hold the instances.
+
+2.it's to tell the inherited class that the function should look for the overrided functions in other class.
+
+3.what i learnt the most is about using constructors in derived class, and also the virtaul attribute.

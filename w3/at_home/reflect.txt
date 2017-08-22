@@ -1,0 +1,10 @@
+1 Name all the iteration costructs?
+*while
+*do while
+*for
+
+2Explain when is better to use "do while" rather than "while" loop?
+"do while" loop will execute all statments immediately, before checking the condition. "while" loop will execute if condition evaluates to true. In the other words, "do-while" will run at least once before the condition switchs.
+
+3What is a conditional expression?
+Conditional expression is a function of a programming language, it can be used to determine when the program specified Boolean value is true or false, the program wil take the next action.

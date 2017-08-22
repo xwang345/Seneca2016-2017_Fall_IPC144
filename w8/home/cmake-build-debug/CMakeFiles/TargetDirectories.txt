@@ -1,0 +1,3 @@
+C:/Users/zhi/OOP224-ALL-WS-MS/ws8/home/cmake-build-debug/CMakeFiles/home.dir
+C:/Users/zhi/OOP224-ALL-WS-MS/ws8/home/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhi/OOP224-ALL-WS-MS/ws8/home/cmake-build-debug/CMakeFiles/rebuild_cache.dir

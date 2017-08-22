@@ -1,0 +1,11 @@
+Script started on Fri 02 Dec 2016 07:50:47 PM EST
+xwang345@matrix:~/w10/IPC-WS10/in_lab> runs[Kws
+default name is: default
+Enter a name 100 characters or less: Millhous
+name was successfully changed!
+input is: Millhous
+name is: Millhous
+xwang345@matrix:~/w10/IPC-WS10/in_lab> exit
+exit
+
+Script done on Fri 02 Dec 2016 07:51:04 PM EST

@@ -1,0 +1,11 @@
+1)What is a function and briefly discuss the need for functions in any language?
+
+	First of all, function is group of statements which work together for the task. Programmer can divide up their jobs into separate funtions; usually, a large code cannot write by only one programmer, so it have a lot of benefits for using function. 
+
+2)Comment on the modularity and reusability of balanceUp and balanceDown functions. (Hint: Each function was called twice for different purposes each time)
+
+	There are a lots benefits for using function. The main benefits, such as, less code has to be written in program code, a single procedure can be developed for reuse, eliminating the need to retype the code many times and same code can be used in many applications.
+
+3)How do you send and receive data back to and from functions.
+
+	Usually, function is declare above the main founction. If you want use that function into the main fuction, you can call the function in the main fuction. 

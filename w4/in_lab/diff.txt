@@ -1,0 +1,10 @@
+
+In line number 18 of your output:
+The output should be:
+001 123456789  45
+But your output is: 
+001  123456789  45
+    ^
+----|
+Professor's character ASCII code: hex(31), dec(49)
+un-matched character ASCII code: hex(20), dec(32)

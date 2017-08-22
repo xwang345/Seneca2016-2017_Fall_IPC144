@@ -1,0 +1,4 @@
+1)Why do you need to be careful with the terminating null character in strings? 
+	Because if you do not careful with the last null character, after print string the null character will display instead of the last string's character.  
+2)What can happen if the terminating null is not inserted or if it is overwritten accidentally?
+	After printout, the program will ignore the last character letter.

@@ -1,0 +1,10 @@
+
+In line number 18 of your output:
+The output should be:
+The average of all marks in this group is 62.6.
+But your output is: 
+The average of all marks in this group is 6.4.
+                                           ^
+-------------------------------------------|
+Professor's character ASCII code: hex(32), dec(50)
+un-matched character ASCII code: hex(2e), dec(46)

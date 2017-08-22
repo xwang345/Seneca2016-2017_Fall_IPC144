@@ -1,0 +1,29 @@
+Script started on Sat 01 Oct 2016 12:47:49 AM EDT
+xwang345@matrix:~/w3/IPC-WS3/in_lab> runws
+       ---=== IPC mark Analyser ===---
+Please enter the number of marks(between 3 and 40): 2
+Invalid number, enter a number between 3 and 40 inclusive: 41
+Invalid number, enter a number between 3 and 40 inclusive: 5
+1> 45
+2> 90
+3> 57
+4> 89
+5> 32
+The average of all marks in this group is 62.6.
+Program Ended.
+xwang345@matrix:~/w3/IPC-WS3/in_lab> marks
+       ---=== IPC mark Analyser ===---
+Please enter the number of marks(between 3 and 40): 2
+Invalid number, enter a number between 3 and 40 inclusive: 41
+Invalid number, enter a number between 3 and 40 inclusive: 5
+1> 45
+2> 90
+3> 57
+4> 89
+5> 32
+The average of all marks in this group is 62.6.
+Program Ended.
+xwang345@matrix:~/w3/IPC-WS3/in_lab> exit
+exit
+
+Script done on Sat 01 Oct 2016 12:49:09 AM EDT

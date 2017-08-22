@@ -1,0 +1,9 @@
+1)What are the advantages of using functions? 
+	The advantagces of using functions in C, sach as, make program development easy, code sharing becomes easy and code re-usability increases.
+
+2)C function syntax only allows for the return of a single value. What do you do if an application requires a function that returns more than one value?
+	Even though a function can return only one value; however, the value can be of pointer type.
+
+3)Explain the differences between a local scope and a global scope?
+	If you define a variable inside the function that call local variable scope and it value only use inside the function; however, the global variable is define in out of function, once define the global variable which variable's value can not make any change inside of the function. Morover, the global variable can use in any functions.    
+	

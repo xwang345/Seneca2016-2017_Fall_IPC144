@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e173c49-b0ae-4a11-b850-ca944318743a" name="xwang345" url="http://xwang345@matrix.senecac.on.ca">
+        <fileTransfer host="xwang345@matrix.senecac.on.ca" port="22" rootFolder="/home/xwang345" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
